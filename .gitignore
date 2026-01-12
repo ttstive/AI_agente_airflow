@@ -12,3 +12,5 @@ airflow.db
 .env
 airflow_settings.yaml
 pyproject.toml
+
+.databricks
